@@ -1,4 +1,5 @@
 import React, { useState, useRef } from "react";
+import { evaluate } from 'mathjs';
 import Draggable from "react-draggable";
 
 const Calculator = ({ isAppOpen, toggleCalculator }) => {
@@ -14,8 +15,8 @@ const Calculator = ({ isAppOpen, toggleCalculator }) => {
 
   const calculate = () => {
     try {
-      const result = eval(display);
-      setClickCount((prevClickCount) => prevClickCount + 1);
+      const result = evaluate(display);
+setClickCount((prevClickCount) => prevClickCount + 1);
 
       if (clickCount === 0 || clickCount === 4) {
         setDisplay("Hello World");
