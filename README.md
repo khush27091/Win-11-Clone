@@ -16,7 +16,7 @@ Welcome to the **Windows Clone** app built with **React.js**! 🎉 Dive into thi
 - **🎵 Spotify**: Enjoy a simulated music player interface.
 - **📁 About Me**: Learn about ME.
 
-- **Login Page**
+## **Login Page**
 - You can enter anything on the login page to gain access to the app. No need for actual credentials! 🔐
 - Click on the icons on the desktop to open the different apps.
 - Use the taskbar to switch between open applications.
@@ -31,16 +31,13 @@ Welcome to the **Windows Clone** app built with **React.js**! 🎉 Dive into thi
     <img src="public/screenshots/browser.png" alt="browser" width="400px" style="margin: 10px;">
     <img src="public/screenshots/vscode.png" alt="vscode" width="400px" style="margin: 10px;">
     <img src="public/screenshots/calculator.png" alt="calculator" width="400px" style="margin: 10px;">
-    <img src="public/screenshots/emoji.png" alt="emoji" width="400px" style="margin: 10px;">
-    <img src="public/screenshots/explorer.png" alt="explorer" width="400px" style="margin: 10px;">
     <img src="public/screenshots/switch.png" alt="switch" width="400px" style="margin: 10px;">
     <img src="public/screenshots/sleep.png" alt="sleep" width="400px" style="margin: 10px;">
-    <img src="public/screenshots/spotify.png" alt="spotify" width="400px" style="margin: 10px;">
     <img src="public/screenshots/startmenu.png" alt="startmenu" width="400px" style="margin: 10px;">
     <img src="public/screenshots/aboutme.png" alt="aboutme" width="400px" style="margin: 10px;">
 </div>
 
-
-<div style="margin-left:10px;"> 💡 Inspiration
+## 💡 Inspiration
+<div style="margin-left:10px;"> 
 
 This project was slightly inspired by [Vivek Patel's portfolio](https://vivek9patel.github.io/). Check it out for more creative ideas and inspiration!
