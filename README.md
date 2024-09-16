@@ -9,7 +9,21 @@ Welcome to the **Windows Clone** app built with **React.js**! 🎉 Dive into thi
 </div>
 
 ## 🎨 Features
-...
+- **🌐 Chrome**: Surf the web just like in a real Chrome browser.
+- **🧮 Calculator**: Perform basic arithmetic operations with this handy calculator.
+- **💻 VS Code**: Virtual Visual Studio Code environment.
+- **🕹️ Tic-Tac-Toe**: Play a fun game of Tic-Tac-Toe !
+- **🎵 Spotify**: Enjoy a simulated music player interface.
+- **📁 About Me**: Learn about ME.
+
+- **Login Page**
+- You can enter anything on the login page to gain access to the app. No need for actual credentials! 🔐
+- Click on the icons on the desktop to open the different apps.
+- Use the taskbar to switch between open applications.
+- Interact with the apps to explore their features and functionalities!
+
+
+
 ## 📸 Screenshots
 
 <div style="text-align:center;">
@@ -25,3 +39,8 @@ Welcome to the **Windows Clone** app built with **React.js**! 🎉 Dive into thi
     <img src="public/screenshots/startmenu.png" alt="startmenu" width="400px" style="margin: 10px;">
     <img src="public/screenshots/aboutme.png" alt="aboutme" width="400px" style="margin: 10px;">
 </div>
+
+
+<div style="margin-left:10px;"> 💡 Inspiration
+
+This project was slightly inspired by [Vivek Patel's portfolio](https://vivek9patel.github.io/). Check it out for more creative ideas and inspiration!
