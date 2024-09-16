@@ -244,14 +244,6 @@ const appsData = [
     action: "vscode",
     size: "w-8 h-8",
   },
-      // {
-      //   id: 7,
-      //   name: "Emoji TicTacToe",
-      //   icon: "https://raw.githubusercontent.com/MishanPoudel/Emoji-TicTacToe/main/public/favicon.ico",
-      //   action: "app",
-      //   subAction: "emoji",
-      //   size: "w-10 h-10",
-      // },
   {
     id: 8,
     name: "Spotify",

@@ -42,7 +42,7 @@ function VsCode({ isAppOpen, toggleVsCode, bounds }) {
           <div className="content text-white select-none text-center flex justify-center h-full">
             {contentLoaded && (
               <iframe
-                src="https://github1s.com/MishanPoudel/Windows11-3.0/blob/main/src/Pages/main.js"
+                src="https://github1s.com/khush27091/Win-11-Clone"
                 title="VsCode"
                 className="h-full w-full bg-ub-cool-grey"
               ></iframe>
